@@ -1,0 +1,62 @@
+.flyout {
+	display:flex;
+	flex-direction: column;
+	min-height:100vh;
+	justify-content: space-between;
+}
+
+.home-feature-box .fa {
+	font-size:6rem;
+}
+
+.home-feature-box span {
+	display: block;
+	color:#111;
+	font-weight:bold;
+	margin-top:1.5rem;
+}
+
+.example-components-list li > a {
+  color: #495057;
+}
+
+.example-components-list li:last-child > a {
+	border-bottom:0;
+}
+
+.example-components-list li > a .fa {
+	color:rgba(0,0,0,.35);
+	float:right;
+}
+
+.spinner-border.mySpinner{
+	width: 20rem;
+	height: 20rem;
+	margin: 0 300px;
+}
+.container{
+	max-width: 1360px;
+}
+
+.chartImageHolder1{
+	text-align: right;
+}
+.chartImage1{
+	margin-left: 0px;
+	margin-top: -50px;
+}
+.chartImageHolder2{
+	text-align: center;
+}
+.chartImage2{
+	margin-left: 0px;
+	margin-top: -60px;
+}
+.chartImage3{
+	margin-left: 0px;
+	margin-top: -70px;
+}
+.chartImage4, .chartImage5{
+	margin-left: 0px;
+	margin-top: -55px;
+}
